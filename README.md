@@ -1,5 +1,5 @@
 # Computer_Architecture_And_Microcontroller_Design
-This repository has all the lab experiment which I have completed 
+This repository has all the lab experiment, which I have completed in my B.Sc. Engineering course.
 It contains:
 
 1.LED Blinking
